@@ -30,28 +30,20 @@ ai-trip-planner/
 
 ## Implementation Phases
 
-| Phase | Module               | Status      |
-|-------|----------------------|-------------|
+| Phase | Module               | Status       |
+|-------|----------------------|--------------|
 | 0     | Architecture & Schema| ✅ Complete  |
 | 1     | Authentication       | ✅ Complete  |
 | 2     | User Profile         | ✅ Complete  |
-| 3     | Trip Planning        | 🔲 Pending  |
-| 4     | AI Service           | 🔲 Pending  |
-| 5     | AI Orchestration     | 🔲 Pending  |
-| 6     | Frontend Foundation  | 🔲 Pending  |
-| 7     | Frontend Pages       | 🔲 Pending  |
-| 8     | Docker & DevOps      | 🔲 Pending  |
-| 9     | Polish & Docs        | 🔲 Pending  |
+| 3     | Trip Planning        | 🔲 Pending   |
+| 4     | AI Service           | 🔲 Pending   |
+| 5     | AI Orchestration     | 🔲 Pending   |
+| 6     | Frontend Foundation  | 🔲 Pending   |
+| 7     | Frontend Pages       | 🔲 Pending   | 
+| 8     | Docker & DevOps      | 🔲 Pending   |
+| 9     | Polish & Docs        | 🔲 Pending   |
 
-## Module 2 — User Profile
 
-Implemented profile support for authenticated users:
-
-- `POST /api/profiles`
-- `GET /api/profiles/me`
-- `PUT /api/profiles/me`
-
-Profile data includes occupation, home city, travel style, budget preference, and transport preference.
 
 ## Quick Start (Coming Soon)
 
